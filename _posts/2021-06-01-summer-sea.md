@@ -6,7 +6,7 @@ tags:
   life 
   photo
 ---
-<img src="/media/files/2021/s1.jpg"  width="480"/><img src="/media/files/2021/s2.jpg"  width="480"/><br />
+<img src="/media/files/2021/s1.jpg"  width="380"/><img src="/media/files/2021/s2.jpg"  width="380"/><br />
 七月的风<br />
 八月的雨 <br />
 阳光沙滩和快乐的你<br />
