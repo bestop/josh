@@ -19,7 +19,6 @@ tags:
 			</tr>
 		</tbody>
 	</table>
-<br />
 </p>
 七月的风<br />
 八月的雨 <br />
