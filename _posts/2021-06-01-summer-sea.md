@@ -6,7 +6,21 @@ tags:
   life 
   photo
 ---
-<img src="/media/files/2021/s1.jpg"  width="360"/><img src="/media/files/2021/s2.jpg"  width="360"/><br />
+<p>
+	<table style="width:100%;" cellpadding="2" cellspacing="0" align="center" border="1">
+		<tbody>
+			<tr>
+				<td>
+				<img src="/media/files/2021/s1.jpg"  width="360"/>	<br />
+				</td>
+				<td>
+				<img src="/media/files/2021/s2.jpg"  width="360"/>	<br />
+				</td>
+			</tr>
+		</tbody>
+	</table>
+<br />
+</p>
 七月的风<br />
 八月的雨 <br />
 阳光沙滩和快乐的你<br />
