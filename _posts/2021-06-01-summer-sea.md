@@ -7,14 +7,14 @@ tags:
   photo
 ---
 <p>
-	<table style="width:100%;" cellpadding="2" cellspacing="0" align="center" border="1">
+	<table style="width:100%;" cellpadding="2" cellspacing="0" align="center" border="0">
 		<tbody>
 			<tr>
 				<td>
-				<img src="/media/files/2021/s1.jpg"  width="360"/>	<br />
+				<img src="/media/files/2021/s1.jpg"  width="360"/>	
 				</td>
 				<td>
-				<img src="/media/files/2021/s2.jpg"  width="360"/>	<br />
+				<img src="/media/files/2021/s2.jpg"  width="360"/>	
 				</td>
 			</tr>
 		</tbody>
