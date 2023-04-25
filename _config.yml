@@ -4,7 +4,7 @@ permalink: /:year/:month/:day/:title.html
 name: "JoshTime"
 
 author: "JoshTime"
-atom-baseurl: "http://hijoe.tk"
+atom-baseurl: "http://j.hijoe.net"
 disqus: "hijosh"
 
 navigations:
@@ -19,7 +19,7 @@ navigations:
     href: /about.html
   - title: Gallery
     class: fa fa-film
-    href: https://photo.hijoe.tk/portfolio/
+    href: http://jp.hijoe.net/portfolio/
   - title: Read+
     class: fa fa-list-ul
     href:  http://dwz.cn/joesbb
